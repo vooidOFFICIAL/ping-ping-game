@@ -5,6 +5,6 @@ __If not you can easily download it:__
 
 ´´´bash
 sudo pip install pygame
-
+´´´
 
 We also recommend to run the script on your terminal
