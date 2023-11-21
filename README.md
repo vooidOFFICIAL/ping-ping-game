@@ -1,11 +1,10 @@
-# (__Make sure you have pygame installed before running the script.__ 3)
+# (__Make sure you have pygame installed before running the script.__ )
 
 
-# (If not you can easily download it: 4)
+__If not you can easily download it:__
 
 ´´´bash
 sudo pip install pygame
-(´bash´)
 
 
-# (We also recommend to run the script on your terminal.)
+We also recommend to run the script on your terminal
