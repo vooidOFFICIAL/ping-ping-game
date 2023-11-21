@@ -8,3 +8,7 @@ sudo pip install pygame
 ```
 
 We also recommend to run the script on your terminal
+
+```bash
+python3 your-file-name.py
+```
