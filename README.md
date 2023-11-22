@@ -12,3 +12,6 @@ We also recommend to run the script on your terminal
 ```bash
 python3 your-file-name.py
 ```
+
+
+__Note that player 1 uses the "w" and "s" keys and player 2 uses the "up" and "down" keys.__
